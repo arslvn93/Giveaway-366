@@ -1,21 +1,21 @@
 const config = {
   "meta": {
-    "pageTitle": "Win $400 Blue Jays Tickets - Summer Game Night Giveaway!",
-    "navBrandLogoText": "Julian Kashani",
-    "privacyPolicyLink": "https://property.ca/privacy"
+    "pageTitle": "Win Wine Fest & Jazz Night for Two – $200 Toronto Experience!",
+    "navBrandLogoText": "Veronika Zykova",
+    "privacyPolicyLink": ""
   },
   "giveaway": {
-    "heroHeadline": "Win <span class='highlight'>Free Toronto Blue Jays Tickets</span> for an Epic Summer Game Night!",
-    "heroSubheadline": "Score two premium seats to see the Toronto Blue Jays take on the Texas Rangers, valued at $400! Make your summer unforgettable with this all-star night out. Entry closes July 25th, winner picked July 29th.",
-    "heroBackgroundImageUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/3x4pjwf8h1rma0cqhn6tw7t808.jpg",
-    "promotionDates": "Enter from June 27th to July 25th, 2025 - winner announced July 29th!",
-    "endDate": "2025-07-26T03:59:00.000Z",
+    "heroHeadline": "Win a <span class='highlight'>Romantic Wine & Jazz Night</span> for Two in Toronto!",
+    "heroSubheadline": "Enter now for your chance to enjoy the Toronto Wine Festival and a jazz concert with Jay Douglas at Old Mill Torontoa perfect $200 night out for couples or friends. Limited entries. Draw ends October 30th!",
+    "heroBackgroundImageUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/q7cqfq9bz9rme0csch5ac4gfqg.jpg",
+    "promotionDates": "Enter between October 1st and October 29th, 2025. Winner drawn October 30th!",
+    "endDate": "2025-10-30T03:59:00.000Z",
     "heroCtaText": "Enter to Win Now!",
-    "entryFormCtaText": "Enter Game Night Draw!",
-    "name": "Blue Jays Summer Game Night Giveaway",
-    "successModalHeaderText": "You’re in the Draw!",
-    "successModalMainMessage": "Your entry for the <strong>Toronto Blue Jays Summer Game Night</strong> is in! Winner will be announced July 29th and notified by email. Good luck!",
-    "successModalEmailPrompt": "Watch your email and keep July 29th on your calendar—you could be on your way to the ballpark!"
+    "entryFormCtaText": "Enter My Name Now!",
+    "name": "Wine & Jazz Night Out Toronto",
+    "successModalHeaderText": "You9re Officially Entered!",
+    "successModalMainMessage": "You9re in the draw for the <strong>Wine & Jazz Toronto Experience</strong>! We9ll select one winner on October 30th. If you win, you9ll get an email right away. Good luck!",
+    "successModalEmailPrompt": "Tell a friend! And check your inbox on October 30th9; don7t miss your chance."
   },
   "settings": {
     "confettiColors": [
@@ -25,7 +25,7 @@ const config = {
     ],
     "showCountdownInHero": true,
     "theme": "dark",
-    "primaryColorOverride": "#0055A4",
+    "primaryColorOverride": "",
     "secondaryColorOverride": "#FFEE58",
     "ghlWebhookUrl": "https://services.leadconnectorhq.com/hooks/bJbBMjcW619cJrLUJ3kY/webhook-trigger/3yNsurfrt9oBUtRBuygb",
     "webhookUrl": "https://n8n.salesgenius.co/webhook/giveawayupdate",
@@ -35,234 +35,216 @@ const config = {
   },
   "thankYouPage": {
     "pageTitle": "Thank You for Your Entry!",
-    "headerText": "🎉 ONE MORE STEP",
-    "mainMessage": "Your spot for the <strong>Toronto Blue Jays Summer Game Night</strong> is almost locked in! You've made it to the final step of the giveaway - congratulations! Now all you need to do is follow my social media accounts to officially lock in your entry and stay connected",
+    "headerText": " ONE MORE STEP",
+    "mainMessage": "Your spot for the <strong>Toronto Wine & Jazz Night Out</strong> is almost locked in! You've made it to the final step of the giveaway - congratulations! Now all you need to do is follow my social media accounts to officially lock in your entry and stay connected",
     "socialPromptText": "FOLLOW BOTH TO WIN! Complete Your Entry Now"
   },
   "prize": {
     "images": [
       {
-        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/hg2dnqs7yhrm80cqhn79nt68j8.jpg",
-        "alt": "Cheering fans at a Blue Jays baseball game"
+        "src": "",
+        "alt": "Two friends toasting with wine at a lively festival"
       },
       {
-        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/bk4ehhbc35rmc0cqhn78wzw7t8.jpg",
-        "alt": "Couple enjoying a summer night at the Rogers Centre"
+        "src": "",
+        "alt": "Couple enjoying live jazz music at a cozy Toronto venue"
       },
       {
-        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/w99mghnswxrm80cqhn7bm108b0.jpg",
-        "alt": "Exciting baseball action between Toronto Blue Jays and Texas Rangers"
+        "src": "",
+        "alt": "Jazz singer Jay Douglas performing on stage"
       },
       {
-        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/wzcq768e4drme0cqhn7v49g7tr.jpg",
-        "alt": "Tickets for a premier Blue Jays game experience"
+        "src": "",
+        "alt": "Old Mill Toronto warmly lit for an evening concert"
       }
     ],
     "includedItems": [
       {
-        "icon": "fas fa-baseball-ball",
-        "text": "Two premium tickets to Blue Jays vs. Rangers"
+        "icon": "fas fa-wine-glass-alt",
+        "text": "Two tickets to Toronto Wine Festival (Saturday night)"
       },
       {
-        "icon": "fas fa-user-friends",
-        "text": "Perfect for couples, friends, or a special family outing"
+        "icon": "fas fa-music",
+        "text": "Reserved table for two at Old Mill Toronto jazz concert (Friday night)"
       },
       {
         "icon": "fas fa-star",
-        "text": "$400 total value - for a big-time experience"
+        "text": "Live jazz by Jay Douglas, three-time Juno nominee"
       },
       {
-        "icon": "fas fa-city",
-        "text": "Catch live baseball in downtown Toronto"
+        "icon": "fas fa-heart",
+        "text": "Perfect for couples, friends, or family"
       },
       {
-        "icon": "fas fa-calendar-day",
-        "text": "Game date: Summer 2025, Texas Rangers matchup"
+        "icon": "fas fa-gift",
+        "text": "$200 total value experience included free"
       }
     ],
-    "name": "Toronto Blue Jays Summer Game Night Experience",
-    "value": "$400 Value",
-    "description": "Imagine you and your favorite person cheering in the stands as the Blue Jays play live against the Texas Rangers! Feel the rush, eat ballpark snacks, and enjoy a big summer night in the city. This giveaway gets you <span class='highlight'>two premium tickets</span> for the best seats in the house. Whether it’s a fun date or a night with a friend, you’ll remember it all year long.",
-    "limitedTimeOfferText": "Summer Only - Limited Entry!",
-    "ctaButtonText": "I Want These Game Tickets!"
+    "name": "Wine & Jazz Date Night Experience",
+    "value": "$200 Value",
+    "description": "Imagine a special weekend for you and someone you love. Experience the Toronto Wine Festival on Saturday night, tasting the best wines the city offers. The night before, enjoy a reserved table for two and the smooth sounds of Jay Douglas, a three-time Juno Award nominee, at the beautiful Old Mill Toronto. This is your chance to enjoy music, wine, and connection in one unforgettable weekend.",
+    "limitedTimeOfferText": "Only one lucky winner! Don7t miss your chance.",
+    "ctaButtonText": "I Want This Night Out!"
   },
   "howToEnter": {
     "steps": [
       {
         "icon": "fas fa-edit",
-        "title": "Fill Out the Form",
-        "description": "Enter your name and email in the quick form below—done in under 30 seconds!"
+        "title": "Fill In Your Details",
+        "description": "Complete the simple entry form below with your name and emaila it takes just 30 seconds."
       },
       {
-        "icon": "fas fa-question-circle",
-        "title": "Answer Simple Questions",
-        "description": "Tell us a little about who you’d bring and why you’d love this summer baseball night."
+        "icon": "fas fa-heart",
+        "title": "Let Us Know You Love Jazz & Wine",
+        "description": "Tell us who you'd bring and why you love jazz or wine. Quick and fun!"
       },
       {
         "icon": "fas fa-trophy",
-        "title": "Get Your Chance to Win!",
-        "description": "That’s it! Watch your inbox—winner picked July 29th."
+        "title": "You're Entered!",
+        "description": "You're now in the draw! Winner will be picked on October 30th and contacted by email."
       }
     ],
     "highlights": [
       {
         "icon": "fas fa-clock",
-        "text": "Super quick and easy entry"
+        "text": "Fast, easy 30-second entry"
       },
       {
-        "icon": "fas fa-gift",
-        "text": "No purchase needed"
+        "icon": "fas fa-glass-cheers",
+        "text": "Win a night out, free!"
       },
       {
-        "icon": "fas fa-heart",
-        "text": "Great night out with someone special"
+        "icon": "fas fa-users",
+        "text": "Bring your partner, friend, or family"
       },
       {
         "icon": "fas fa-star",
-        "text": "Random, fair winner pick"
+        "text": "Experience top-tier jazz and wine"
+      },
+      {
+        "icon": "fas fa-random",
+        "text": "Winner chosen at random"
       }
     ]
   },
   "rules": {
-    "finePrintText": "Please read the fine print before entering. Anyone can enter.",
+    "finePrintText": "This giveaway is sponsored by Veronika Zykova, Real Estate. Not affiliated with Old Mill Toronto, Jay Douglas, or Toronto Wine Festival. Contest ends October 29th, 2025. Winner selected by random draw. Must be 18+ Ontario resident.",
     "showTipsSection": true,
     "faq": [
       {
         "q": "Who can enter this giveaway?",
-        "a": "Anyone 18 or older living in Ontario can enter. Couples, families, and friends are welcome!"
+        "a": "Anyone age 40+ who loves jazz and wine and can attend in Toronto on both event nights is encouraged to enter. Share this with a friend!"
       },
       {
-        "q": "How will I know if I win?",
-        "a": "Winner will get an email from jk@property.ca on July 29th. Check your inbox and spam!"
+        "q": "Do I have to be part of a couple?",
+        "a": "Nowith two tickets and a reserved table, you can bring anyonea friend, your sibling, or your partner!"
       },
       {
-        "q": "Do I have to pay for anything?",
-        "a": "Nope—the tickets are totally free! Just show up and enjoy the game."
+        "q": "What are the event dates?",
+        "a": "Jazz concert is on Friday night, October 31, 2025. The Toronto Wine Festival is on Saturday night, November 1, 2025. Please check your calendar before entering."
       },
       {
-        "q": "What if I can’t make the game?",
-        "a": "If you can’t attend, let us know so someone else can use this amazing prize."
+        "q": "Is there any cost to enter?",
+        "a": "Entry is 100% free. All event costs are covered by the giveaway."
+      },
+      {
+        "q": "How will the winner be chosen?",
+        "a": "A random draw from all completed entries. Well notify the winner by email on October 30th."
       }
     ],
     "tips": [
-      "Double-check your email for typos—make sure you can be reached",
-      "Think of who you'd take for this special night",
-      "Tell family and friends to enter too",
-      "Follow Julian Kashani on Instagram or Facebook for the winner post"
+      "Double-check your email for accuracy",
+      "Add veronika@property.ca to your contacts so you dont miss the winner email",
+      "Share with friends so they can enter too (but only one winner!)",
+      "Follow @veronikatherealtor on Instagram and Facebook for updates"
     ],
     "fairSelectionInfo": {
-      "title": "Fair and Random Drawing",
-      "text": "Every entry has the same fair shot! Winner is chosen by a random draw. No tricks, just luck."
+      "title": "Fair and Square Drawing",
+      "text": "One lucky winner will be picked at random from all valid entries. Every entry has a fair chancegood luck!"
     },
     "importantNotice": {
-      "title": "Watch Your Email",
-      "text": "Only the email you use here will be contacted. Be sure to check your spam, too, on July 29th."
+      "title": "Winner Will Be Notified by Email",
+      "text": "Well contact the winner by email on October 30th. Watch your inbox (and spam) so you dont miss out!"
     }
   },
   "entryForm": {
     "sharePlatforms": {
-      "facebook": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fgiveaway-558.netlify.app%2Fadmin",
-      "twitter": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fgiveaway-558.netlify.app%2Fadmin&text=Win%20Toronto%20Blue%20Jays%20Tickets%20for%20an%20Epic%20Summer%20Game%20Night!"
+      "facebook": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fgiveaway-366.netlify.app%2Fadmin",
+      "twitter": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fgiveaway-366.netlify.app%2Fadmin&text=Win%20Wine%20Fest%20%26%20Jazz%20Night%20for%20Two%20%E2%80%93%20%24200%20Toronto%20Experience!"
     },
-    "subtitle": "Enter your details below for a shot at your dream Blue Jays night out!",
-    "entryCountText": "Hundreds of Toronto fans are already in—don’t miss your chance!",
-    "socialSharePrompt": "Share with your friends—make it a race to win!"
+    "subtitle": "Enter your details for this chance at a $200 wine and jazz date night!",
+    "entryCountText": "Many jazz and wine lovers have already entereddont miss out!",
+    "socialSharePrompt": "Know another jazz or wine fan? Share this page with them!"
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1750445840887_0",
-      "questionText": "What do you like the most about your current home?",
+      "id": "q1",
+      "questionText": "How often do you treat yourself to cultural events like concerts, theater performances, or art shows?",
       "options": [
-        {
-          "value": "The location",
-          "text": "The location"
-        },
-        {
-          "value": "The layout",
-          "text": "The layout"
-        },
-        {
-          "value": "The finishes (paint, lighting, etc.)",
-          "text": "The finishes (paint, lighting, etc.)"
-        },
-        {
-          "value": "The outdoor space",
-          "text": "The outdoor space"
-        }
+        { "value": "Often", "text": "Often" },
+        { "value": "Sometimes", "text": "Sometimes" },
+        { "value": "Rarely", "text": "Rarely" },
+        { "value": "Never", "text": "Never" }
       ]
     },
     {
-      "id": "q_auto_1750445840887_1",
-      "questionText": "Is a move on your radar in the near future?",
+      "id": "q2",
+      "questionText": "Which of the following wine regions have you visited or are interested in visiting?",
       "options": [
-        {
-          "value": "Yes, sometime in 2025",
-          "text": "Yes, sometime in 2025"
-        },
-        {
-          "value": "Yes, in the next 1–2 years",
-          "text": "Yes, in the next 1–2 years"
-        },
-        {
-          "value": "Not at the moment",
-          "text": "Not at the moment"
-        },
-        {
-          "value": "I’m not sure yet",
-          "text": "I’m not sure yet"
-        }
+        { "value": "Niagara-on-the-Lake", "text": "Niagara-on-the-Lake" },
+        { "value": "Sonoma", "text": "Sonoma" },
+        { "value": "Bordeaux", "text": "Bordeaux" },
+        { "value": "Local wine festivals", "text": "I prefer discovering local wine festivals" }
       ]
     },
     {
-      "id": "q_auto_1750445840887_2",
-      "questionText": "What’s your current housing situation?",
+      "id": "q3",
+      "questionText": "When planning a special evening out, which venues do you prefer?",
       "options": [
-        {
-          "value": "I rent and am interested in buying",
-          "text": "I rent and am interested in buying"
-        },
-        {
-          "value": "I own and might sell within 2 years",
-          "text": "I own and might sell within 2 years"
-        },
-        {
-          "value": "I own and am happy where I am",
-          "text": "I own and am happy where I am"
-        },
-        {
-          "value": "I’m actively looking to buy or sell now",
-          "text": "I’m actively looking to buy or sell now"
-        }
+        { "value": "Elegant restaurants", "text": "Elegant restaurants" },
+        { "value": "Live music venues", "text": "Live music venues" },
+        { "value": "Cozy wine bars", "text": "Cozy wine bars" },
+        { "value": "Friends' gatherings at home", "text": "Friends' gatherings at home" }
+      ]
+    },
+    {
+      "id": "q4",
+      "questionText": "How do you typically make your weekend plans?",
+      "options": [
+        { "value": "Spontaneously decide on the day", "text": "Spontaneously decide on the day" },
+        { "value": "Plan a week ahead to secure reservations", "text": "Plan a week ahead to secure reservations" },
+        { "value": "Follow friends' recommendations", "text": "Follow friends' recommendations" },
+        { "value": "Prefer stay-at-home weekends", "text": "Prefer stay-at-home weekends" }
       ]
     }
   ],
   "footerContact": {
     "social": {
-      "facebook": "https://www.facebook.com/JulianKashaniRealtor",
-      "instagram": "http://instagram.com/juliankashani"
+      "facebook": "https://www.facebook.com/VeronikaRealEstate",
+      "instagram": "https://instagram.com/veronikatherealtor"
     },
     "agentContact": {
-      "name": "Julian Kashani",
+      "name": "Veronika Zykova",
       "title": "Real Estate Agent",
-      "phone": "(416) 837-7775",
-      "email": "jk@property.ca"
+      "phone": "6473884686",
+      "email": "veronika@property.ca"
     },
-    "footerDisclaimer": "This giveaway is sponsored by Julian Kashani, REALTOR®, and is not sponsored by or affiliated with the Toronto Blue Jays or Texas Rangers. Winner selected at random from entries received by July 25th, 2025. Must be 18+ and an Ontario resident to enter.",
+    "footerDisclaimer": "This giveaway is sponsored by Veronika Zykova, Real Estate. Not affiliated with Old Mill Toronto, Jay Douglas, or Toronto Wine Festival. Contest ends October 29th, 2025. Winner selected by random draw. Must be 18+ Ontario resident.",
     "organizerLogoUrl": "",
     "secondaryLogoUrl": "",
     "secondaryLogoAlt": "Property.Ca Brokerage Logo",
-    "organizerName": "Julian Kashani",
-    "brokerageName": "Property.Ca",
-    "address": "36 Distillery Lane Unit 500 Toronto M5A3C4",
-    "email": "jk@property.ca",
-    "phone": "(416) 837-7775",
-    "copyrightOwner": "Property.Ca"
+    "organizerName": "Veronika Zykova",
+    "brokerageName": "",
+    "address": "",
+    "email": "veronika@property.ca",
+    "phone": "6473884686",
+    "copyrightOwner": "Veronika Zykova"
   },
   "deploymentInfo": {
-    "repoName": "Giveaway-558",
-    "repoUrl": "https://github.com/arslvn93/Giveaway-558",
-    "netlifyUrl": "http://Giveaway-558.netlify.app",
+    "repoName": "Giveaway-366",
+    "repoUrl": "https://github.com/arslvn93/Giveaway-366",
+    "netlifyUrl": "http://Giveaway-366.netlify.app",
     "netlifyId": "",
-    "tag": "Blue Jays Giveaway"
+    "tag": "Wine & Jazz Night Out Toronto"
   }
 };
