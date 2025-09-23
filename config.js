@@ -2,7 +2,7 @@ const config = {
   "meta": {
     "pageTitle": "Win Wine Fest & Jazz Night for Two – $200 Toronto Experience!",
     "navBrandLogoText": "Veronika Zykova",
-    "privacyPolicyLink": ""
+    "privacyPolicyLink": "https://property.ca/privacy"
   },
   "giveaway": {
     "heroHeadline": "Win a <span class='highlight'>Romantic Wine & Jazz Night</span> for Two in Toronto!",
@@ -172,7 +172,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1758644256607_0",
+      "id": "q_auto_1758644373556_0",
       "questionText": "How often do you treat yourself to cultural events like concerts, theater performances, or art shows?",
       "options": [
         {
@@ -194,7 +194,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1758644256607_1",
+      "id": "q_auto_1758644373556_1",
       "questionText": "Which of the following wine regions have you visited or are interested in visiting?",
       "options": [
         {
@@ -216,7 +216,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1758644256607_2",
+      "id": "q_auto_1758644373556_2",
       "questionText": "When planning a special evening out, which venues do you prefer?",
       "options": [
         {
@@ -238,7 +238,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1758644256607_3",
+      "id": "q_auto_1758644373556_3",
       "questionText": "How do you typically make your weekend plans?",
       "options": [
         {
