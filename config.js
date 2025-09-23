@@ -172,7 +172,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1758644373556_0",
+      "id": "q_auto_1758644441251_0",
       "questionText": "How often do you treat yourself to cultural events like concerts, theater performances, or art shows?",
       "options": [
         {
@@ -194,7 +194,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1758644373556_1",
+      "id": "q_auto_1758644441251_1",
       "questionText": "Which of the following wine regions have you visited or are interested in visiting?",
       "options": [
         {
@@ -216,7 +216,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1758644373556_2",
+      "id": "q_auto_1758644441251_2",
       "questionText": "When planning a special evening out, which venues do you prefer?",
       "options": [
         {
@@ -238,7 +238,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1758644373556_3",
+      "id": "q_auto_1758644441251_3",
       "questionText": "How do you typically make your weekend plans?",
       "options": [
         {
@@ -288,8 +288,8 @@ const config = {
     "secondaryLogoUrl": "https://iili.io/Kcu5xN2.webp",
     "secondaryLogoAlt": "Property.Ca Brokerage Logo",
     "organizerName": "Veronika Zykova",
-    "brokerageName": "",
-    "address": "",
+    "brokerageName": "Property.ca Inc. Brokerage",
+    "address": "36 Distillery Lane, Suite 500 Toronto ON, M5A 3C4",
     "email": "veronika@property.ca",
     "phone": "6473884686",
     "copyrightOwner": "Veronika Zykova"
