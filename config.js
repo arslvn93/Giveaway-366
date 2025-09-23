@@ -40,7 +40,7 @@ const config = {
         "alt": "Two friends toasting with wine at a lively festival"
       },
       {
-        "src": "",
+        "src": "https://iili.io/KcuvLkx.webp",
         "alt": "Couple enjoying live jazz music at a cozy Toronto venue"
       },
       {
@@ -172,7 +172,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1758644106754_0",
+      "id": "q_auto_1758644256607_0",
       "questionText": "How often do you treat yourself to cultural events like concerts, theater performances, or art shows?",
       "options": [
         {
@@ -194,7 +194,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1758644106754_1",
+      "id": "q_auto_1758644256607_1",
       "questionText": "Which of the following wine regions have you visited or are interested in visiting?",
       "options": [
         {
@@ -216,7 +216,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1758644106754_2",
+      "id": "q_auto_1758644256607_2",
       "questionText": "When planning a special evening out, which venues do you prefer?",
       "options": [
         {
@@ -238,7 +238,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1758644106754_3",
+      "id": "q_auto_1758644256607_3",
       "questionText": "How do you typically make your weekend plans?",
       "options": [
         {
